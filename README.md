@@ -1,4 +1,5 @@
 # Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Click the link to see [DEMO LINK](https://olegshanin.github.io/Miami-landing/)
+Design of the landing page you could fing HERE(https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=0%3A1)
+Stack: HTML5, SASS, JS
+Fully responsive layout made by using: CSSGrid, Flexbox
